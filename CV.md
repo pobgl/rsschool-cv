@@ -13,7 +13,7 @@ e-mail: *[pglb@yandex.ru](mailto:pglb@yandex.ru)*
 > JavaScript ES6\
 > WebPack\
 > EsLint\
-> Team work
+> Team work\
 > Project management
 ### Education
 > My specialty is mechanical engineer.
@@ -24,7 +24,7 @@ e-mail: *[pglb@yandex.ru](mailto:pglb@yandex.ru)*
 >   * [Certificate](https://app.rs.school/certificate/763k846z)
 ### Code examples
 ```
-unction count (string) {  
+function count (string) {  
   let returnObj = {};
   for (const symbol of string) {
     if (returnObj.hasOwnProperty(symbol)) {
