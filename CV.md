@@ -23,5 +23,20 @@ e-mail: *[pglb@yandex.ru](mailto:pglb@yandex.ru)*
 > * _Rolling Scopes School JS/FE 2020 Q3:_
 >   * [Certificate](https://app.rs.school/certificate/763k846z)
 ### Code examples
+```
+unction count (string) {  
+  let returnObj = {};
+  for (const symbol of string) {
+    if (returnObj.hasOwnProperty(symbol)) {
+      returnObj[symbol] += 1;
+    } else {
+      returnObj[symbol] = 1;
+    }
+  }
+   return returnObj;
+}
+```
 
 ### Language skills
+> My English level is B1\
+> I had a lot of technical English practice as a project manager in mechanical engineering sphere.
